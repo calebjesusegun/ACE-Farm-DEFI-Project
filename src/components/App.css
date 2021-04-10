@@ -1,0 +1,17 @@
+/* Styles go here */
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+
+#navId {
+    background-color: #e5cb93 !important;
+}
+
+#logoId{
+    color: #172a62 !important;
+    font-weight: 600;
+    font-family: 'Inconsolata', monospace;
+}
+
+#submitBtn1{
+    background-color: #172a62 !important;
+    color: #fff;
+}
